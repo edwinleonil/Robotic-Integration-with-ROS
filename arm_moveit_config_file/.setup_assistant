@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: kortex_description
+    relative_path: robots/gen3.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/gen3.srdf
+  CONFIG:
+    author_name: edwin
+    author_email: e.roca@amrc.co.uk
+    generated_timestamp: 1611677590
